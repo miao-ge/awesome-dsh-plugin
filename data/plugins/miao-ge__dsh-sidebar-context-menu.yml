@@ -1,0 +1,6 @@
+url: https://github.com/miao-ge/dsh-sidebar-context-menu
+name: miao-ge/dsh-sidebar-context-menu
+category: ui
+description:
+  en: 'Right-click menu on the left sidebar workspace rows: rename, delete the workspace, open it in VS Code, or reveal it in File Explorer. With dsh-project-tabs installed it also offers opening the project in a new tab.'
+  zh: '左侧工作区行的右键菜单：重命名、删除工作区、用 VS Code 打开、在资源管理器中打开；装了 dsh-project-tabs 时多一项「在新标签中打开」。'

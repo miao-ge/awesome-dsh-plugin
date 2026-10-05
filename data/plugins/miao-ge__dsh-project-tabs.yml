@@ -1,0 +1,6 @@
+url: https://github.com/miao-ge/dsh-project-tabs
+name: miao-ge/dsh-project-tabs
+category: ui
+description:
+  en: 'Browser-style project tabs in the window title bar: one tab per session, running / finished / waiting-for-approval badges, drag to reorder, and the tab set restored across restarts.'
+  zh: '窗口标题栏里的浏览器式项目标签栏：一个标签一条会话，带运行中 / 已跑完未读 / 等待审批状态标记，可拖拽排序，重启后恢复。'
